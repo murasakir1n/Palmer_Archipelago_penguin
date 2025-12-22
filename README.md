@@ -18,7 +18,7 @@ Palmer Penguins Dataset Analysis
 1. Species – Вид      
 2. Region – Регион 
 3. Island – Тип товара 
-4. Stage – Бренд
+4. Stage – Стадия
 5. Clutch Completion – Успешность кладки
 6. Culmen Length – Длинна клюва
 7. Culmen Depth – Глудина клюва
