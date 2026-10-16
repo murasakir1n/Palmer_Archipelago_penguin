@@ -37,7 +37,7 @@ df['sex'] = df['sex'].replace('.', 'MALE')
 sex_count = df['sex'].value_counts()
 print(sex_count)
 
-engine = create_engine('postgresql://postgres:eaajcqt1337eaajcqt@localhost:5432/Palmer_Archipelago_penguin')
+engine = create_engine(***************)
 
 df.to_sql('palmer_penguins', engine, if_exists='replace', index= False)
 
